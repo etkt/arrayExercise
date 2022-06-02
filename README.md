@@ -10,3 +10,5 @@ Then i wanted to show the code used below the columns.
 
 arrayExercise.js shows the full assignment with my solutions. It is heavily commented for my benefit.
 
+lesson.js is my attempt to visualize the methods in the browser.
+
